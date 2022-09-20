@@ -4,7 +4,8 @@ Hi there I'm XIN👋
 
 ### Good to see you! I'm currently studying at SenecaCollege and working as a co-op at MPBSD.
 
-## :cat: About Me
+## 😸About Me
+
 ```Javascript
 (function(){
   let xin= {
