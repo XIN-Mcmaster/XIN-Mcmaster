@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there I'm XIN👋
+Hi there I'm Nicole👋
 </h1>
 
 ### Good to see you! I'm currently studying at SenecaCollege and working as a co-op at MPBSD.
@@ -8,13 +8,13 @@ Hi there I'm XIN👋
 
 ```Javascript
 (function(){
-  let xin= {
+  let nicole= {
     Name:"Nicole Lyu",
     previousWork:"Low code Developer Co-op",
     education:{ SheridanCollege: "Software Development and Network Engineering-Diploma",
                 McMasterUniversity: "Software Engineering Technology-Degree"}
     };
-    console.log(xin);
+    console.log(nicole);
  })();
 ```
 ## :computer: Languages and Tools
