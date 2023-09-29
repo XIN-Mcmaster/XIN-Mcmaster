@@ -10,7 +10,7 @@ Hi there I'm XIN👋
 (function(){
   let xin= {
     Name:"XIN LYU",
-    currentWork:"Low code Developer Co-op",
+    previousWork:"Low code Developer Co-op",
     education:{ SheridanCollege: "Software Development and Network Engineering-Diploma",
                 McMasterUniversity: "Software Engineering Technology-Degree"}
     };
