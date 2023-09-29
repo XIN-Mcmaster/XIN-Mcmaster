@@ -2,7 +2,7 @@
 Hi there I'm Nicole👋
 </h1>
 
-### Good to see you! I'm currently studying at Mcmaster University and Lokking for a job.
+### Good to see you! I'm currently studying at Mcmaster University and Looking for a job.
 
 ## 😸About Me
 
