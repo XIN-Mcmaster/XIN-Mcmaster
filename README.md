@@ -9,7 +9,7 @@ Hi there I'm XIN👋
 ```Javascript
 (function(){
   let xin= {
-    Name:"XIN LYU",
+    Name:"Nicole Lyu",
     previousWork:"Low code Developer Co-op",
     education:{ SheridanCollege: "Software Development and Network Engineering-Diploma",
                 McMasterUniversity: "Software Engineering Technology-Degree"}
