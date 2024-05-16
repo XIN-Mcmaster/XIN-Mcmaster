@@ -21,11 +21,17 @@ Hi there I'm Nicole👋
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align:top; margin:4px"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </div>
+<br/>
 
-![](https://raw.githubusercontent.com/XIN-Mcmaster/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/XIN-Mcmaster/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![alt-text-1](https://raw.githubusercontent.com/XIN-Mcmaster/github-stats-transparent/output/generated/overview.svg)
+![alt-text-2](https://raw.githubusercontent.com/XIN-Mcmaster/github-stats-transparent/output/generated/languages.svg)
+
 
 ## ✉️ Connect
 <p align="center">
